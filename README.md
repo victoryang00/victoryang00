@@ -6,6 +6,11 @@ East-Asian Esthetics & Ideology / Žižek fan / CXL HW&SW CoDesign Engineer / Wi
 
 Check out my résumé: [English Version](http://asplos.dev/) | [中文简历](http://asplos.dev/CN.html)
 
+⚧️ 
+🏳️‍⚧️ 
+
+System Hacker.
+
 
 <!--START_SECTION:waka-->
 
